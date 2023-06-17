@@ -96,7 +96,7 @@
 
 这些技术共同构成了 Vue 前端开发框架的核心部分，使开发人员能够构建高效、可扩展和易维护的用户界面。
 
-<img src="https://raw.githubusercontent.com/j-j-b-b/my_img/main/md_img/vue.png" alt="vue" style="zoom: 20%;" />
+![vue](https://raw.githubusercontent.com/j-j-b-b/my_img/main/md_img/vue.png)
 
 # 后端主要工作
 
@@ -186,7 +186,7 @@ Spring Boot是一个基于Java的开发框架，旨在简化Java后端应用程�
 4. MVC（Model-View-Controller）架构：Spring Boot使用MVC架构模式来组织应用程序的代码。开发者可以使用注解和配置来定义控制器、服务和数据访问层，实现请求的处理和数据的交互。
 5. Spring框架：Spring Boot是基于Spring框架构建的，继承了Spring框架的许多优点和功能。Spring框架提供了诸如依赖注入、面向切面编程、事务管理等核心功能，为应用程序提供了更好的结构和可维护性。
 
-<img src="https://raw.githubusercontent.com/j-j-b-b/my_img/main/md_img/springboot.png" alt="springboot" style="zoom: 25%;" />
+![springboot](https://raw.githubusercontent.com/j-j-b-b/my_img/main/md_img/springboot.png)
 
 在这个架构图中，Spring Boot作为后端框架负责处理请求和响应，并协调其他组件的工作。当用户发起请求时，Spring Boot的控制器接收请求并调用相应的服务组件。服务组件处理业务逻辑，并与数据访问层进行交互，通过Spring框架的依赖注入来实现组件之间的解耦。
 
